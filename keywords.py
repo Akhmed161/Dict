@@ -1,5 +1,5 @@
 pattern = {
-    #в основном для хелпера 
+    #в основном для хелпера
     'вебим': ['wibim', 'vebim', 'webim', 'вэбим', 'вибим'],
     'инвойс': ['инвойс\w*', 'invoic(.)?' 'invoic(.)? clients', 'invoic(.)? Admin', 'invoic(.)? Inventory', 'inventory', 'инвойс админ', 'инвойс инвентори', 'инвойс клиент', 'invoice_clients'],
     'хелпдэск': ['help desk', 'helpdesk', 'хэлпдеск'],
