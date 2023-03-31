@@ -6,7 +6,7 @@ pattern = {
     'скайп': ['skype', 'lync', 'линк(.)?', 'skype for business', 'скайп для бизнеса'],
     'почта': ['out look', 'outlok', 'аутлук', 'корп(\.)? почта', 'корп(\.)?почта', 'outlook'],
     'вебмейл': ['webmail', 'вэбмейл', 'вэб-мейл', 'веб-мейл'],
-    'облачный офис': ['ofice 365', 'office 365', 'офис 365', 'teams', 'word', 'excel', 'oneNote', 'access'],
+    'облачный офис': ['ofice 365', 'office 365', 'офис 365', 'teams', 'word', 'excel', 'oneNote', 'access', 'office'],
     'авайя': ['avaya', 'авайка', 'авая'],
     'сервисдеск': ['sd', 'servicedesk', 'bpmonline service desk', 'bpmonline', 'bpm', 'bpm7', 'бпм', 'bpm-servicedesk', 'bpm servicedesk', 'service desk', 'servic desk', 'servicdesk', 'бпм servicedesk', 'бпм-servicedesk', 'бпм-сервисдеск', 'бпм сервисдеск'],
     'виндоус': ['vindovs', 'windows', 'винда', 'виндовс', 'виндов'],
