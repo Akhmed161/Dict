@@ -65,7 +65,7 @@ pattern = {
     'мнп': ['mnp'],
     'срф': ['srf'],
     'пдф': ['pdf'],
-    'бартендер': ['bartender', 'bar tender', 'бар тендер', 'bar tender],
+    'бартендер': ['bartender', 'bar tender', 'бар тендер', 'bar tender'],
     'Планета земля': ['google earth'],
     'вебтутор': ['web-tutor', 'webtutor', 'вэбтьютор'],
     'лбс': ['LBC', 'lbs'],
