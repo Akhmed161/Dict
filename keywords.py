@@ -11,7 +11,7 @@ pattern = {
     'авайя': ['avaya', 'авайка', 'авая'],
     'сервисдеск': ['sd', 'servicedesk', 'bpmonline service desk', 'bpmonline', 'bpm', 'bpm7', 'бпм', 'bpm-servicedesk', 'bpm servicedesk', 'service desk', 'servic desk', 'servicdesk', 'бпм servicedesk', 'бпм-servicedesk', 'бпм-сервисдеск', 'бпм сервисдеск'],
     'виндоус': ['vindovs', 'windows', 'винда', 'виндовс', 'виндов'],
-    'фтп': ['sftp', 'ftp'],
+    'фтп': ['sftp', 'ftp', 'сфтп'],
     'циско': ['cisco', 'циска', 'сиско', 'AnyConnect', 'Any Connect', 'cisco anyconnec', 'anyconnec'],
     'вди': ['vdi', 'инфраструктура виртуальных рабочих столов', 'виртуальный рабочий стол'],
     'администратор':['админ'],
