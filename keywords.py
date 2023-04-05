@@ -8,6 +8,8 @@ pattern = {
     'сервер': ['server', 'сервир(.)?'],
     'плей маркет': ['play', 'плэй', 'плей маркет(.)?', 'плэй маркет(.)?', 'play market'],
     'хром': ['chrome'],
+    'плей': ['play', 'плэй'],
+    'маркет': ['маркит(.)?', 'market'],
     'вебим': ['wibim', 'vebim', 'webim', 'вэбим', 'вибим'],
     'инвойс': ['инвойс\w*', 'invoic(.)?' 'invoic(.)? clients', 'invoic(.)? Admin', 'invoic(.)? Inventory', 'inventory', 'инвойс админ', 'инвойс инвентори', 'инвойс клиент', 'invoice_clients'],
     'хелпдэск': ['help desk', 'helpdesk', 'хэлпдеск'],
