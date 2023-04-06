@@ -17,7 +17,7 @@ pattern = {
     'вебмейл': ['webmail', 'вэбмейл', 'вэб-мейл', 'веб-мейл'],
     'облачный офис': ['ofice 365', 'office 365', 'офис 365', 'teams', 'word', 'excel', 'oneNote', 'access'],
     'майкрософт офис': ['office', 'microsoft office'],
-    'авайя': ['avaya', 'авайка', 'авая'],
+    'авайя': ['avaya', 'авайка', 'авая', 'аваи'],
     'сервисдеск': ['sd', 'servicedesk', 'bpmonline service desk', 'bpmonline', 'bpm', 'bpm7', 'бпм', 'bpm-servicedesk', 'bpm servicedesk', 'service desk', 'servic desk', 'servicdesk', 'бпм servicedesk', 'бпм-servicedesk', 'бпм-сервисдеск', 'бпм сервисдеск'],
     'виндоус': ['vindovs', 'windows', 'винда', 'виндовс', 'виндов'],
     'фтп': ['sftp', 'ftp', 'сфтп'],
