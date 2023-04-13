@@ -20,7 +20,7 @@ pattern = {
     'авайя': ['avaya', 'авайка', 'авая', 'аваи'],
     'сервисдеск': ['sd', 'servicedesk', 'bpmonline service desk', 'bpmonline', 'bpm', 'bpm7', 'бпм', 'bpm-servicedesk', 'bpm servicedesk', 'service desk', 'servic desk', 'servicdesk', 'бпм servicedesk', 'бпм-servicedesk', 'бпм-сервисдеск', 'бпм сервисдеск'],
     'ср': ['SR'],
-    'виндоус': ['vindovs', 'windows', 'винда', 'виндовс', 'виндов'],
+    'виндовс': ['vindovs', 'windows', 'винда', 'виндоус', 'виндов', 'винда'],
     'фтп': ['sftp', 'ftp', 'сфтп'],
     'циско': ['cisco', 'циска', 'сиско', 'AnyConnect', 'Any Connect', 'cisco anyconnec', 'anyconnec'],
     'ддр': ['double data rate', 'ddr', 'double rate', 'ddr sdram', 'ddr sd'],
