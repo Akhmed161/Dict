@@ -13,7 +13,7 @@ pattern = {
     'инвойс': ['инвойс\w*', 'invoic(.)?' 'invoic(.)? clients', 'invoic(.)? Admin', 'invoic(.)? Inventory', 'inventory', 'инвойс админ', 'инвойс инвентори', 'инвойс клиент', 'invoice_clients'],
     'хелпдэск': ['help desk', 'helpdesk', 'хэлпдеск'],
     'скайп': ['skype', 'lync', 'линк(.)?', 'skype for business', 'скайп для бизнеса'],
-    'почта': ['out look', 'outlok', 'аутлук', 'корп(\.)? почта', 'корп(\.)?почта', 'outlook'],
+    'почта': ['out look', 'outlok', 'аутлук', 'корп(\.)? почта', 'корп(\.)?почта', 'outlook', 'outluk'],
     'вебмейл': ['webmail', 'вэбмейл', 'вэб-мейл', 'веб-мейл'],
     'облачный офис': ['ofice 365', 'office 365', 'офис 365', 'teams', 'word', 'excel', 'oneNote', 'access'],
     'майкрософт офис': ['office', 'microsoft office'],
