@@ -24,7 +24,7 @@ pattern = {
     'фтп': ['sftp', 'ftp', 'сфтп'],
     'циско': ['cisco', 'циска', 'сиско', 'AnyConnect', 'Any Connect', 'cisco anyconnec', 'anyconnec'],
     'ддр': ['double data rate', 'ddr', 'double rate', 'ddr sdram', 'ddr sd'],
-    'ссд': ['ssd'],
+    'ссд накопитель': ['ssd'],
     'поликом ': ['polycom'],
     'ван икс': ['One-x', 'One x'],
     'cофтфон': ['Софт фон', 'Софтфон x'],
