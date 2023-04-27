@@ -270,6 +270,7 @@ pattern = {
     'твиттер': ['twitter', 'twiter', 'twit', 'твитер'],
     'вайбер': ['вибер', 'ваибер', 'viber'],
     'киви': ['qiwi', 'qivi'],
+    'сбербанк': ['сбанк(\w)?'],
     'вай фай': ['wi fi', 'wi-fi', 'ви-фи', 'вифи', 'wifi', 'вай-фай', 'вайфай', 'ви фи'],
     'теледвагость': ['tele2guest', 'tele2 guest', 'tele2-guest', 'guest tele2'],
     'теледвакорп': ['tele2corp', 'tele2 corp', 'tele2-corp', 'сorp tele2'],
