@@ -265,6 +265,7 @@ pattern = {
     'андроид': ['adroid', 'android'],
     'айфон': ['ipfone', 'iphone', 'ios'],
     'эпл': ['apple'],
+    'гелекси': ['galaxy'],
     'вотч': ['watch'],
     'айпад': ['ipad', 'ай пад', 'айпэд', 'ай пэд'],
     'эпстор': ['appStore', 'app store', 'apple store', 'эппл store', 'эпл store'],
