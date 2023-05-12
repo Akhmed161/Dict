@@ -277,6 +277,7 @@ pattern = {
     'рестор': ['Re:Store'],
     'вотсап': ['вац ап', 'вацап', 'ватсап(\w)?', 'вассап', 'ватцап(\w)?', 'ватс ап', 'whatsapp', 'whats app', 'whassup', 'whatsup', 'what`s app', 'воцап', 'ваттсап', 'вотцап(\w)?'],
     'вк': ['vkontakte', 'vk'],
+    'комбо': ['combo', 'kombo'],
     'вк музыка': ['вк музык(\w)?', 'vkmusic', 'vk music'],
     'фейсбук': ['facebook'],
     'твиттер': ['twitter', 'twiter', 'twit', 'твитер'],
