@@ -83,7 +83,7 @@ pattern = {
     'акьюмс': ['aqmc', 'aqms'],
     'мнп': ['mnp'],
     'срф': ['srf'],
-    'программа пдф': ['pdf', 'пдф'],
+    'пдф': ['pdf', 'пдф'],
     'бартендер': ['bartender', 'bar tender', 'бар тендер', 'bar tender'],
     'Планета земля': ['google earth'],
     'вебтутор': ['web-tutor', 'webtutor', 'вэбтьютор'],
