@@ -277,7 +277,7 @@ pattern = {
     'айтюнс': ['itunes'],
     'айклауд': ['icloud'],
     'фейстайм': ['facetim(\w)?', 'face tim(\w)?'],
-    'аймесседж': ['imessag(\w)?', 'i messag(\w)?', 'imesseg(\w)?', 'ай мессадж(\w)?'],
+    'аймесседж': ['imessag(\w)?', 'i messag(\w)?', 'imesseg(\w)?', 'ай мессадж(\w)?', 'imassage(\w)?'],
     'гет эпс': ['get apps', 'get aps'],
     'рестор': ['Re:Store'],
     'стор': ['stor(\w)?'],
