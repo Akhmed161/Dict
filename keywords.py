@@ -276,6 +276,8 @@ pattern = {
     'эпстор': ['appstore', 'app store', 'apple store', 'эппл store', 'эпл store', 'ап стор(\w)?'],
     'айтюнс': ['itunes'],
     'айклауд': ['icloud'],
+    'фейстайм': ['facetim(\w)?', 'face tim(\w)?'],
+    'аймесседж': ['imessag(\w)?', 'i messag(\w)?', 'imesseg(\w)?', 'ай мессадж(\w)?'],
     'гет эпс': ['get apps', 'get aps'],
     'рестор': ['Re:Store'],
     'стор': ['stor(\w)?'],
