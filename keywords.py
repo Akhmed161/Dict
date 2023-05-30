@@ -494,6 +494,7 @@ pattern = {
     'имэй': ['imai', 'imei', 'imey'],
     'спотифай': ['Spotify', 'spoti fy'],
     'билайн': ['beeline', 'белайн'],
+    'йота': ['yota'],
     'опера': ['opera'],
     'мини': ['mini'],
 
