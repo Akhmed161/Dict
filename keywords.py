@@ -29,7 +29,7 @@ pattern = {
     'поликом ': ['polycom'],
     'ван икс': ['One-x', 'One x'],
     'cофтфон': ['Софт фон', 'Софтфон x'],
-    'вок зе ток': ['walk talk', 'walk the talk', 'walk the tolk', 'wolk the tolk', 'wolk the talk', 'вок зэ ток'],
+    'вок зе ток': ['walk talk', 'walk the talk', 'walk the tolk', 'wolk the tolk', 'wolk the talk', 'вок зэ ток', 'wtt'],
     'забота теле2': ['Tele2 care', 'Tele2 cere', 'Tele2care', 'тл2'],
     'вди': ['vdi', 'инфраструктура виртуальных рабочих столов', 'виртуальный рабочий стол'],
     'администратор':['админ'],
