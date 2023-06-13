@@ -489,6 +489,7 @@ pattern = {
     'звук': ['zvooq', 'zvoq', 'zvuk'],
     'клубхаус': ['clubhouse'],
     'гфн': ['gfn', 'Geforce now'],
+    'роблокс': ['tower defense simulator', 'roblox'],
     'доктис': ['Doctis', 'Doctis Premium'],
     'док плюс': ['док\+', 'doc\+'],
     'озон': ['OZON', 'озон(\w)?'],
