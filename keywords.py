@@ -11,7 +11,7 @@ pattern = {
     'плей': ['play', 'плэй'],
     'маркет': ['маркит(\w)?', 'market'],
     'вебим': ['wibim', 'vebim', 'webim', 'вэбим', 'вибим'],
-    'инвойс': ['инвойс\w*', 'invoic\w*' 'invoic(\w)? clients', 'invoic(\w)? Admin', 'invoic(\w)? Inventory', 'inventory', 'инвойс админ', 'инвойс инвентори', 'инвойс клиент', 'invoice_clients'],
+    'инвойс': ['invoic\w*', 'invoic(\w)? clients', 'invoic(\w)? admin', 'invoic(\w)? inventory', 'inventory', 'инвойс админ', 'инвойс инвентори', 'инвойс клиент', 'invoice_clients'],
     'хелпдэск': ['help desk', 'helpdesk', 'хэлпдеск'],
     'скайп': ['skype', 'lync', 'линк(\w)?', 'skype for business', 'скайп для бизнеса'],
     'почта': ['out look', 'outlok', 'аутлук', 'корп(\.)? почта', 'корп(\.)?почта', 'outlook', 'outluk', 'емайл'],
