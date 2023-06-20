@@ -200,6 +200,7 @@ pattern = {
     'хелпер': ['хэлпер', 'helper'],
     'софт': ['software', 'soft'],
     'пунто': ['punto', 'punto switcher'],
+    'торус': ['torus'],
     'адобе': ['adobe'],
     'бест': ['best'],
     'ремотап': ['remoteapp', 'remote app', 'remote-app', 'ремотэп', 'ремотеп', 'remote ap', 'remoteap'],
