@@ -461,6 +461,7 @@ pattern = {
     'погасить': ['пагосить'],
     'пуш': ['push'],
     'тв клуб': ['tv club', 'тв клаб', 'tv клуб', 'тв club'],
+    'море тв': ['tv more', 'more тв', 'more-tv', 'more.tv', 'more tv', 'more'],
     'киозк': ['kiozk'],
     'лэтуаль': ['летуаль'],
     'туботека': ['tuboteka\w*', 'tubo teka'],
