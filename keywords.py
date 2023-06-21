@@ -502,7 +502,7 @@ pattern = {
     'гдз': ['gdz'],
     'кибер герои': ['cyberHero Cups', 'cyberHero', 'cyber hero'],
     'бум': ['boom'],
-    'имэй': ['imai', 'imei', 'imey'],
+    'имэй': ['imai', 'imei', 'imey', 'имей'],
     'спотифай': ['Spotify', 'spoti fy'],
     'билайн': ['beeline', 'белайн'],
     'йота': ['yota'],
