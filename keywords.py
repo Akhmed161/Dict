@@ -48,6 +48,7 @@ pattern = {
     'рдп': ['Rdp', 'рдиди', 'Remote Desktop Protocol', 'Remote Desktop', 'протокол удалённого рабочего стола', 'протокол удаленного рабочего стола'],
     'роботизация': ['rpa', 'рпа'],
     'шерпоинт': ['share point', 'sharepoint'],
+    'чекпоинт': ['сheck point mobile portal', 'сheckpoint', 'сheck point mobile', 'сheck point'],
     'тфс': ['tfs', 'tfc', 'team foundation server'],
     'вебдилер': ['webdealer', 'вэб дилер', 'веб дилер', 'web dealer', 'wd', 'вд'],
     'босс кадровик': ['босс-кадровик', 'boss кадровик', 'boss-кадровик'],
