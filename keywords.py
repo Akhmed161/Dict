@@ -287,6 +287,8 @@ pattern = {
     'вотч': ['watch'],
     'айпад': ['ipad', 'ай пад', 'айпэд', 'ай пэд'],
     'эпстор': ['appstore', 'app store', 'apple store', 'эппл store', 'эпл store', 'ап стор(\w)?'],
+    'аптач': ['apptouch','app-touch', 'aptouch', 'уптач\w*', 'эптач\w*'],
+    'aдгард': ['adguard','addguard', 'add-guard', 'aгард\w*', 'эдгард\w*', 'эгард\w*'],
     'айтюнс': ['itunes'],
     'айклауд': ['icloud'],
     'фейстайм': ['facetim(\w)?', 'face tim(\w)?'],
