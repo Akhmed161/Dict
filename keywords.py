@@ -20,7 +20,7 @@ pattern = {
     'для': ['for'],
     'бизнес': ['busines(\w)?'],
     'почта': ['корп(\.)? почта', 'корп(\.)?почта', 'емайл'],
-    'аутлук': ['out look', 'outlok', 'аутлук', 'outlook', 'outlook', 'outluk'],
+    'аутлук': ['out look', 'outlok', 'outlook', 'outluk'],
     'вебмейл': ['webmail', 'вэбмейл', 'вэб-мейл', 'веб-мейл'],
     'облачный офис': ['ofice 365', 'office 365', 'офис 365', 'teams', 'word', 'excel', 'oneNote', 'access'],
     'майкрософт офис': ['office', 'microsoft office'],
