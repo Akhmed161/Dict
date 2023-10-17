@@ -529,7 +529,7 @@ pattern = {
     'дэником': ['danycom'],
     'телею': ['Tele2you', 'теле ю'],
     'геймерз бейз': ['gamersbase plus', 'gamersbas(\w)?'],
-    'твитч': ['twitch', 'твич'],
+    'твитч': ['twitch', 'твич', 'twich'],
     'тик': ['tik', 'tic'],
     'ток': ['tok', 'toc'],
     'тикток': ['tiktok', 'tictok', 'tik-tok'],
