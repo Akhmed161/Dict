@@ -530,7 +530,7 @@ pattern = {
     'телею': ['Tele2you', 'теле ю'],
     'геймерз бейз': ['gamersbase plus', 'gamersbas(\w)?'],
     'твитч': ['twitch', 'твич'],
-    'тикток': ['tikTok', 'ticTok'],
+    'тикток': ['tiktok', 'tictok', 'tik tok', 'tik-tok'],
     'сяоми': ['xiaomi', 'ксиоми', 'ксяоми'],
     'телеграм': ['telegram', 'телега', 'телеграм(\w)?'],
     'дискорд': ['discord'],
