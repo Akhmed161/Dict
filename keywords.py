@@ -537,7 +537,7 @@ pattern = {
     'телеграм': ['telegram', 'телега', 'телеграм(\w)?'],
     'дискорд': ['discord'],
     'звук': ['zvooq', 'zvoq', 'zvuk'],
-    'клубхаус': ['clubhouse'],
+    'клубхаус': ['clubhouse', 'клабхаус'],
     'гфн': ['gfn', 'Geforce now'],
     'роблокс': ['tower defense simulator', 'roblox'],
     'доктис': ['doctis', 'doctis Premium'],
