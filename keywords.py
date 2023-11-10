@@ -26,7 +26,7 @@ pattern = {
     'облачный офис': ['ofice 365', 'office 365', 'офис 365', 'teams', 'word', 'excel', 'oneNote', 'access'],
     'майкрософт офис': ['office', 'microsoft office'],
     'авайя': ['avaya', 'авайка', 'авая', 'аваи'],
-    'сервисдеск': ['sd', 'servicedesk', 'bpmonline service desk', 'bpmonline', 'bpm', 'bpm7', 'бпм', 'bpm-servicedesk', 'bpm servicedesk', 'service desk', 'servic desk', 'servicdesk', 'бпм servicedesk', 'бпм-servicedesk', 'бпм-сервисдеск', 'бпм сервисдеск'],
+    'сервисдеск': ['sd', 'servicedesk', 'sd.corp.tele2.ru', 'bpmonline service desk', 'bpmonline', 'bpm', 'bpm7', 'бпм', 'bpm-servicedesk', 'bpm servicedesk', 'service desk', 'servic desk', 'servicdesk', 'бпм servicedesk', 'бпм-servicedesk', 'бпм-сервисдеск', 'бпм сервисдеск'],
     'ср': ['sr'],
     'рсчс': ['rschs'],
     'виндовс': ['vindovs', 'windows', 'винда', 'виндоус', 'виндов', 'винда'],
