@@ -229,6 +229,7 @@ pattern = {
     'файлнэт': ['filenet'],
     'хелпер': ['хэлпер', 'helper'],
     'телеопти': ['teleopti'],
+    'траблшутинг': ['troubleshooting', 'crmtrbl\w*', 'apm troubleshooting', 'http://crmtrbl/Subscriber\w*'],
     'софт': ['software', 'soft'],
     'пунто': ['punto', 'punto switcher'],
     'торус': ['torus'],
