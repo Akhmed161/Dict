@@ -573,7 +573,7 @@ pattern = {
     'кибер герои': ['cyberHero Cups', 'cyberHero', 'cyber hero'],
     'бум': ['boom'],
     'бенд': ['band', 'частота'],
-    'имэй': ['imai', 'imei', 'imey', 'имей'],
+    'имэй': ['imai', 'imei', 'imey', 'имей\w', 'емей\w'],
     'спотифай': ['Spotify', 'spoti fy'],
     'билайн': ['beeline', 'белайн'],
     'йота': ['yota'],
