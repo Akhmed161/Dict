@@ -29,7 +29,7 @@ pattern = {
     'майкрософт офис': ['office', 'microsoft office'],
     'авайя': ['avaya', 'авайка', 'авая', 'аваи'],
     'труконф': ['trueconf'],
-    'сервисдеск': ['sd', 'servicedesk(\w)?', 'sd.corp.tele2.ru', 'bpmonline service desk', 'bpmonline', 'bpm(\w)?', 'бпм(\w)?', 'bpm-servicedesk', 'bpm servicedesk', 'service desk', 'servic desk', 'servicdesk(\w)?', 'бпм servicedesk', 'бпм-servicedesk', 'бпм-сервисдеск', 'бпм сервисдеск'],
+    'сервисдеск': ['sd', 'servicedesk(\w)?', 'sd.corp.tele2.ru', 'врм', 'bpmonline service desk', 'bpmonline', 'bpm(\w)?', 'бпм(\w)?', 'bpm-servicedesk', 'bpm servicedesk', 'service desk', 'servic desk', 'servicdesk(\w)?', 'бпм servicedesk', 'бпм-servicedesk', 'бпм-сервисдеск', 'бпм сервисдеск'],
     'ср': ['sr'],
     'рсчс': ['rschs'],
     'виндовс': ['vindovs', 'windows', 'винда', 'виндоус', 'виндов', 'винда'],
