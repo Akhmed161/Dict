@@ -13,7 +13,7 @@ pattern = {
     'плей': ['play', 'плэй', 'плйе'],
     'маркет': ['маркит(\w)?', 'market', 'маркат(\w)?'],
     'вебим': ['wibim', 'vebim', 'webim', 'вэбим', 'вибим'],
-    'инвойс': ['invoic\w*', 'invoice_clients', 'in@voice(\w)?'],
+    'инвойс': ['invoic\w*', 'invoice_client(\w)?', 'in@voice(\w)?', 'in voice(\w)?'],
     'клиент': ['clients(\w)?'],
     'инвентори': ['inventory(\w)?'],
     'админ': ['admin(\w)?'],
