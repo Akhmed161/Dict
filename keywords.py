@@ -86,6 +86,7 @@ pattern = {
     'ерп': ['сап erp', 'сап ерп', 'sap erp', 'erp', 'ерп', 'enterprise resource planning', 'enterprise resource', 'enterprise planning', 'resource planning'],
     'сард': ['sard'],
     'смс центр': ['smsc', 'смсц', 'sms-центр', 'смс-центр'],
+    'смс фильтр': ['sms-фильтр', 'смс-фильтр'],
     'ммс центр': ['mmsc', 'ммсц', 'mms-центр', 'ммс-центр'],
     'юссд центр': ['юссдц', 'ussd-центр', 'ussdc', 'юссд-центр'],
     'есб': ['esb', 'еэсби'],
