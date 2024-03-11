@@ -574,7 +574,7 @@ pattern = {
     'дискорд': ['discord'],
     'звук': ['zvooq', 'zvoq', 'zvuk'],
     'гфн': ['gfn', 'geforce now'],
-    'роблокс': ['tower defense simulator', 'roblox', 'tds'],
+    'роблокс': ['tower defense simulator\w', 'roblox\w', 'tds\w', 'tower defens\w', 'tower simulator\w', 'defense simulator\w'],
     'доктис': ['doctis', 'doctis Premium'],
     'док плюс': ['док\+', 'doc\+'],
     'озон': ['ozon', 'озон(\w)?'],
