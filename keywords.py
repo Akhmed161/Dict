@@ -326,7 +326,7 @@ pattern = {
     'эп': ['app', 'апп', 'эпп'],
     'стор': ['stor(\w)?'],
     'эпстор': ['appstore', 'app store', 'apple store', 'эппл store', 'эпл store', 'ап стор(\w)?'],
-    'эпгалэри': ['appgallery\w*','appgalery\w*', 'apGalery\w*', 'app gallery\w*', 'app-gallery\w*'],
+    'эпгалэри': ['appgallery\w*','appgalery\w*', 'apGalery\w*', 'app gallery\w*', 'app-gallery\w*', 'аппгеллери(\w)?'],
     'галэри': ['gallery\w*', 'galere\w*'],
     'аптач': ['apptouch', 'app-touch', 'aptouch', 'уптач\w*', 'эптач\w*'],
     'aдгард': ['adguard', 'addguard', 'add-guard', 'aгард\w*', 'эдгард\w*', 'эгард\w*'],
