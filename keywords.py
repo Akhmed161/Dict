@@ -573,6 +573,7 @@ pattern = {
     'ток': ['tok', 'toc'],
     'тикток': ['tiktok', 'tictok', 'tik-tok'],
     'сяоми': ['xiaomi', 'ксиоми', 'ксяоми'],
+    'хуаэвей': ['huawei(\w)?', 'huawey(\w)?'],
     'телеграм': ['telegram', 'телега', 'телеграм(\w)?'],
     'дискорд': ['discord'],
     'звук': ['zvooq', 'zvoq', 'zvuk'],
