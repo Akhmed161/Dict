@@ -23,6 +23,8 @@ pattern = {
     'скайп': ['skyp(\w)?', 'lync', 'линк(\w)?'],
     'для': ['for'],
     'бизнес': ['busines\w*', 'bussines\w*'],
+    'студия': ['studio(\w)?', 'studi(\w)?'],
+    'интеграция': ['integration\w*', 'bs_integration\w*', 'bs integration\w*'],
     'почта': ['корп(\.)? почта', 'корп(\.)?почта', 'емайл'],
     'аутлук': ['out look', 'outlok', 'outlook', 'outluk'],
     'вебмейл': ['webmail', 'вэбмейл', 'вэб-мейл', 'веб-мейл'],
