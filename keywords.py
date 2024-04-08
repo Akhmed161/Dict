@@ -208,6 +208,7 @@ pattern = {
     'скиллкап': ['skill-cup', 'skillcup', 'skilcup', 'skil-cup'],
     'скиллбокс': ['skilbox(\w)?', 'skillbox(\w)?', 'skilboxe(\w)?', 'skilboks(\w)?', 'skilbocs(\w)?'],
     'скилл': ['skill', 'skil'],
+    'помощь': ['help(\w)?'],
     'бокс': ['box', 'boxe', 'bocxe', 'boks', 'bocs'],
     'курсера': ['coursera', 'cursera', 'coursera(\.)?org'],
     'степик': ['stepik', 'stepik.org'],
