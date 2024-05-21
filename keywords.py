@@ -9,6 +9,7 @@ pattern = {
     'диск': ['disk'],
     'прокси': ['proxy'],
     'сервер': ['server', 'сервир(\w)?'],
+    'спидтест': ['speedtest(\w)?', 'spedtest(\w)?', 'speed test(\w)?'],
     'постман': ['postman'],
     'хром': ['chrome'],
     'плей': ['play', 'плэй', 'плйе'],
