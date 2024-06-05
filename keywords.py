@@ -395,6 +395,7 @@ pattern = {
     'иви': ['ivi(\w)?','iwi(\w)?'],
     'оптимум': ['optimum\w*'],
     'премьер': ['premier\w*', 'premer\w*'],
+    'спэшл': ['special\w*'],
     'ютуб': ['you tub(\w)?', 'youtub(\w)?', 'ютюб\w*', 'ютб'],
     'бейсик': ['basic(\w)?', 'basik(\w)?'],
     'стандарт': ['standard(\w)?', 'standart(\w)?'],
