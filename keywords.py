@@ -8,6 +8,7 @@ pattern = {
     'маил': ['mail'],
     'диск': ['disk'],
     'прокси': ['proxy'],
+    'марвэл': ['marvel'],
     'сервер': ['server', 'сервир(\w)?'],
     'спидтест': ['speedtest(\w)?', 'spedtest(\w)?', 'speed test(\w)?'],
     'днс': ['dns', 'dns-сайт\w*'],
