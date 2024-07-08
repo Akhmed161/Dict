@@ -376,7 +376,7 @@ pattern = {
     'икс пять': ['x5(\w)?', 'X5-group(\w)?', 'x-5(\w)?', 'x5retailGroup(\w)?', 'x5-retail(\w)?', 'retail-x5(\w)?', 'retailx5(\w)?', '5post(\w)?', '5-post(\w)?'],
     'ритейл': ['retail(\w)?', 'reteil(\w)?'],
     'группа': ['group(\w)?', 'grup(\w)?'],
-    'вай фай': ['wi fi', 'wi-fi', 'ви-фи(\w)?', 'вифи(\w)?', 'wifi', 'вай-фай(\w)?', 'вайфа(\w)?', 'ви фи'],
+    'вай фай': ['wi fi', 'wi-fi', 'ви-фи(\w)?', 'вифи(\w)?', 'wifi', 'вай-фай(\w)?', 'вайфа(\w)?', 'ви фи', 'wifu'],
     'нфс': ['nfc', 'nfs'],
     'блютуз': ['bluetooth'],
     'теледвагость': ['tele2guest', 'tele2-guest', 'tele2-guest', 'guest-tele2'],
