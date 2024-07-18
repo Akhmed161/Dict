@@ -12,6 +12,7 @@ pattern = {
     'марвэл': ['marvel'],
     'терадата': ['teradata(\w)?','тэрадат(\w)?'],
     'сервер': ['server', 'сервир(\w)?'],
+    'тест': ['test(\w)?'],
     'спидтест': ['speedtest(\w)?', 'spedtest(\w)?', 'speed test(\w)?'],
     'днс': ['dns', 'dns-сайт\w*'],
     'постман': ['postman'],
