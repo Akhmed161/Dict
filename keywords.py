@@ -262,7 +262,7 @@ pattern = {
     'пунто': ['punto', 'punto switcher'],
     'торус': ['torus'],
     'адобе': ['adobe'],
-    'акробат': ['acrobat', 'acrobat', 'acrobat-pro'],
+    'акробат': ['acrobat', 'acrobat', 'acrobat-pro', 'acrobat dc'],
     'бест': ['best\w*'],
     'теле2 вей': ['tele2 way(\w)?'],
     'про-версия': ['pro','pro-версия'],
