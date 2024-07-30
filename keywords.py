@@ -267,6 +267,7 @@ pattern = {
     'торус': ['torus'],
     'адобе': ['adobe'],
     'акробат': ['acrobat', 'acrobat', 'acrobat-pro', 'acrobat dc'],
+    'акробат': ['ncat(\w)?', 'netact(\w)?', 'netcat(\w)?'],
     'бест': ['best\w*'],
     'теле2 вей': ['tele2 way(\w)?'],
     'про-версия': ['pro','pro-версия'],
