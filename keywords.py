@@ -1,7 +1,7 @@
 pattern = {
     #в основном для хелпера
     'гугл': ['google(\w)?', 'googl(\w)?', 'gogle(\w)?', 'google one(\w)?'],
-    'гугл почта': ['gmail', 'g-mail'],
+    'гугл почта': ['gmail(\w)?', 'g-mail(\w)?'],
     'гугл аутентификатор': ['googleautenticator(\w)?', 'google autenticator(\w)?', 'google-autenticator(\w)?'],
     'пиксель': ['pixel'],
     'яндекс': ['yandex', 'ya'],
