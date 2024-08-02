@@ -2,6 +2,7 @@ pattern = {
     #в основном для хелпера
     'гугл': ['google(\w)?', 'googl(\w)?', 'gogle(\w)?', 'google one(\w)?'],
     'гугл почта': ['gmail', 'g-mail'],
+    'гугл аутентификатор': ['googleautenticator(\w)?', 'google autenticator(\w)?', 'google-autenticator(\w)?'],
     'пиксель': ['pixel'],
     'яндекс': ['yandex', 'ya'],
     'электронная почта': ['email', 'e-mail'],
@@ -35,6 +36,7 @@ pattern = {
     'вебмейл': ['webmail', 'вэбмейл', 'вэб-мейл', 'веб-мейл'],
     'облачный офис': ['ofice 365', 'office 365', 'офис 365'],
     'майкрософт': ['microsoft office', 'microsof\w*'],
+    'майкрософт аутентификатор': ['msautenticator(\w)?', 'ms autenticator(\w)?', 'ms-autenticator(\w)?', 'мс autenticator(\w)?', 'мс аутентификатор(\w)?'],
     'облачные сервисы': ['onedrive(\w)?', 'one drive(\w)?', 'one-drive(\w)?', 'dropbox(\w)?'],
     'офис': ['ofic\w*', 'ofis\w*'],
     'тимс': ['team\w*', 'tems\w*'],
