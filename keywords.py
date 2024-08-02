@@ -1,6 +1,6 @@
 pattern = {
     #в основном для хелпера
-    'гугл': ['google', 'googl', 'gogle'],
+    'гугл': ['google(\w)?', 'googl(\w)?', 'gogle(\w)?', 'google one(\w)?'],
     'гугл почта': ['gmail', 'g-mail'],
     'пиксель': ['pixel'],
     'яндекс': ['yandex', 'ya'],
@@ -35,8 +35,8 @@ pattern = {
     'аутлук': ['out look', 'outlok', 'outlook', 'outluk'],
     'вебмейл': ['webmail', 'вэбмейл', 'вэб-мейл', 'веб-мейл'],
     'облачный офис': ['ofice 365', 'office 365', 'офис 365'],
-    'облачные сервисы': ['onedrive(\w)?', 'dropbox(\w)?'],
     'майкрософт': ['microsoft office', 'microsof\w*'],
+    'облачные сервисы': ['onedrive(\w)?', 'one drive(\w)?', , 'one-drive(\w)?', 'dropbox(\w)?'],
     'офис': ['ofic\w*', 'ofis\w*'],
     'тимс': ['team\w*', 'tems\w*'],
     'ворд': ['word\w*', 'vord\w*'],
