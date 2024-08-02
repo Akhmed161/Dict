@@ -36,7 +36,7 @@ pattern = {
     'вебмейл': ['webmail', 'вэбмейл', 'вэб-мейл', 'веб-мейл'],
     'облачный офис': ['ofice 365', 'office 365', 'офис 365'],
     'майкрософт': ['microsoft office', 'microsof\w*'],
-    'облачные сервисы': ['onedrive(\w)?', 'one drive(\w)?', , 'one-drive(\w)?', 'dropbox(\w)?'],
+    'облачные сервисы': ['onedrive(\w)?', 'one drive(\w)?', 'one-drive(\w)?', 'dropbox(\w)?'],
     'офис': ['ofic\w*', 'ofis\w*'],
     'тимс': ['team\w*', 'tems\w*'],
     'ворд': ['word\w*', 'vord\w*'],
