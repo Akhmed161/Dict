@@ -20,7 +20,7 @@ pattern = {
     'плей': ['play(\w)?', 'плэй(\w)?', 'плйе(\w)?', 'плай(\w)?'],
     'маркет': ['маркит(\w)?', 'market', 'маркат(\w)?'],
     'вебим': ['wibim', 'vebim', 'webim', 'вэбим', 'вибим'],
-    'инвойс': ['invoic\w*', 'invoice_client(\w)?', 'in@voice(\w)?', 'in voice(\w)?', 'test_db5\w*', 'test_db2\w*', 'test_db4\w*'],
+    'инвойс': ['invoic\w*', 'invoice_client(\w)?', 'in@voice(\w)?', 'in voice(\w)?', 'test_db5\w*', 'test_db2\w*', 'test_db4\w*', 'bercutdb\w*'],
     'клиент': ['clients(\w)?'],
     'инвентори': ['inventory(\w)?'],
     'админ': ['admin(\w)?'],
