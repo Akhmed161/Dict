@@ -33,7 +33,7 @@ pattern = {
     'интеграция': ['integration\w*', 'bs_integration\w*', 'bs integration\w*'],
     'почта': ['корп(\.)? почта', 'корп(\.)?почта', 'емайл'],
     'аутлук': ['out look', 'outlok', 'outlook', 'outluk'],
-    'вебмейл': ['webmail', 'вэбмейл', 'вэб-мейл', 'веб-мейл'],
+    'вебмейл': ['webmail', 'вэбмейл', 'вэб-мейл', 'веб-мейл', 'web mail'],
     'облачный офис': ['ofice 365', 'office 365', 'офис 365'],
     'майкрософт': ['microsoft office', 'microsof\w*'],
     'майкрософт аутентификатор': ['msautenticator(\w)?', 'ms autenticator(\w)?', 'ms-autenticator(\w)?', 'мс autenticator(\w)?', 'мс аутентификатор(\w)?'],
