@@ -264,7 +264,6 @@ pattern = {
     'хелпер': ['хэлпер', 'helper'],
     'телеопти': ['teleopti'],
     'траблшутинг': ['troubleshooting', 'crmtrbl\w*', 'apm troubleshooting', 'http://crmtrbl/Subscriber\w*'],
-    'сетевая папка': ['corp.tele2.ru\w*', '\\\\corp.tele2.ru\\\\zrfolders\\\w*', '\\\\corp.t2.ru\\\\zrfolders\\\w*', 'corp.t2.ru\w*'],
     'софт': ['software', 'soft'],
     'пунто': ['punto', 'punto switcher'],
     'торус': ['torus'],
