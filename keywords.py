@@ -4,7 +4,7 @@ pattern = {
     'гугл почта': ['gmail(\w)?', 'g-mail(\w)?'],
     'гугл аутентификатор': ['googleautenticator(\w)?', 'google autenticator(\w)?', 'google-autenticator(\w)?'],
     'пиксель': ['pixel'],
-    'яндекс': ['yandex(\w)?', 'ya'],
+    'яндекс': ['yandex(\w)?', 'ya', 'яндекс(\w)?'],
     'электронная почта': ['email', 'e-mail'],
     'приложение': ['прилажух\w*', 'приложух\w*'],
     'маил': ['mail'],
