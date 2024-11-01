@@ -661,7 +661,7 @@ pattern = {
     'фуд': ['food(\w)?', 'food.ru(\w)?'],
     'майбук': ['mybook', 'mybok'],
     'гдз': ['gdz'],
-    'кибер герои': ['cyberHero Cups', 'cyberHero', 'cyber hero'],
+    'кибер герои': ['cyberHero Cups', 'cyberHero', 'cyber hero', 'сайбер хиру', 'Сайбер хиро капс'],
     'бум': ['boom'],
     'бенд': ['band', 'частота'],
     'имэй': ['imai', 'imei', 'imey', 'имей(\w)?', 'емей(\w)?'],
