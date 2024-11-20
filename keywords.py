@@ -16,6 +16,7 @@ pattern = {
     'марвэл': ['marvel'],
     'терадата': ['teradata(\w)?','тэрадат(\w)?'],
     'сервер': ['server', 'сервир(\w)?'],
+    'трейд ин': ['trad(\w)? in(\w)?', 'tradein(\w)?', 'tradin(\w)?', 'treid(\w)? in(\w)?', 'treidin(\w)?', 'treidein(\w)?'],
     'тест': ['test(\w)?'],
     'спидтест': ['speedtest(\w)?', 'spedtest(\w)?', 'speed test(\w)?'],
     'днс': ['dns', 'dns-сайт\w*'],
