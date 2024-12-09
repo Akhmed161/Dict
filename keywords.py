@@ -390,7 +390,7 @@ pattern = {
     'сбербанк': ['сбанк(\w)?'],
     'сберзвук': ['сберзву\w*'],
     'втб': ['vtb(\w)?'],
-    'альфа банк': ['альфа банк': ['alfa-bank(\w)?', 'alfa bank(\w)?'],
+    'альфа банк': ['alfa-bank(\w)?', 'alfa bank(\w)?'],
     'змея': ['snak(\w)?'],
     'икс пять': ['x5(\w)?', 'X5-group(\w)?', 'x-5(\w)?', 'x5retailGroup(\w)?', 'x5-retail(\w)?', 'retail-x5(\w)?', 'retailx5(\w)?', '5post(\w)?', '5-post(\w)?'],
     'ритейл': ['retail(\w)?', 'reteil(\w)?'],
