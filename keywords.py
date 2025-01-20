@@ -144,6 +144,7 @@ pattern = {
     'графана': ['grofana(\w)?', 'grafana(\w)?'],
     'ивр': ['ivr(\w)?', 'айвр(\w)?'],
     'вики': ['viki(\w)?', 'wiki(\w)?', 'wikki', 'конфлюенс', 'confluence(\w)?'],
+    'визио': ['visio(\w)?'],
     'бигзар': ['bidzaar', 'bidzar(\w)?'],
     'фиори': ['fyor(\w)?', 'fior(\w)?'],
     'айку': ['iq(\w)?'],
