@@ -56,7 +56,7 @@ pattern = {
     'рсчс': ['rschs'],
     'виндовс': ['vindovs', 'windows', 'винда', 'виндоус', 'виндов', 'винда'],
     'фтп': ['sftp', 'ftp', 'сфтп'],
-    'циско': ['cisco', 'циска', 'сиско', 'anyconnect', 'any connect', 'cisco anyconnec', 'anyconnec'],
+    'циско': ['cisco', 'циска', 'сиско', 'anyconnect', 'any connect', 'cisco anyconnec', 'anyconnec', 'cisko'],
     'ддр': ['double data rate', 'ddr', 'double rate', 'ddr sdram', 'ddr sd'],
     'ссд накопитель': ['ssd'],
     'компакт диск': ['cd(\w)?'],
